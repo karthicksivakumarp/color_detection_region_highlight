@@ -1,6 +1,8 @@
 # color_detection_region_highlight
 Real-Time Color Detection and Region Highlighting using OpenCV
 
+![image](https://github.com/karthicksivakumarp/color_detection_region_highlight/assets/154797330/12a350a0-5d9b-4431-9428-352e68a115f5)
+
 This Python script leverages the OpenCV library to perform real-time color detection and region highlighting in a video stream from the default camera. 
 The primary color of interest (in this case, red) is specified, and the script identifies and highlights the corresponding color region within each frame.
 
